@@ -1,0 +1,42 @@
+{
+  "userData": {
+    "name": "Dr. Keerthi Kumar",
+    "profileImage": "assets/doctor_3.jpg",
+    "experience": "10 years",
+    "location": "New York, USA",
+    "qualifications": "MBBS, MD",
+    "fees": "$100",
+    "specialization": "Internal Medicine",
+    "email": "john.doe@example.com"
+  },
+  "appointments": [
+    {
+      "patientName": "John Doe",
+      "problem": "Dental",
+      "date": "Monday, 10th April",
+      "time": "10:00 AM",
+      "color": "#FFCDD2"
+    },
+    {
+      "patientName": "John Doe",
+      "problem": "Dental",
+      "date": "Monday, 12th April",
+      "time": "10:00 AM",
+      "color": "#FFCDD2"
+    },
+    {
+      "patientName": "Daniel",
+      "problem": "Skin",
+      "date": "Thursday, 14th April",
+      "time": "12:00 PM",
+      "color": "#FFCDD2"
+    },
+    {
+      "patientName": "Jenny",
+      "problem": "Cardio",
+      "date": "Friday, 15th April",
+      "time": "11:00 AM",
+      "color": "#FFCDD2"
+    }
+  ]
+}
